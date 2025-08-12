@@ -1,8 +1,10 @@
-name: Poster Upload Work Flow
+name: Poster Upload Workflow
+
 on: push
+
 jobs:
   success-message:
-   runs-on:ubuntu-latest
-   steps:
-    -name: Display Success Message
-    run:echo "poster Uploaded Successfully"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Display Success Message
+        run: echo "Poster Uploaded Successfully"
