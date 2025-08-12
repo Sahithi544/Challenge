@@ -1,2 +1,4 @@
 # Challenge
-learning github with Devops
+Team name: Team1
+Roles: Designer
+Poster Tools: Canva
